@@ -1,3 +1,2 @@
-1. This game have some defects like snake moves on scoreboard which should be solved 
-
-2. Snake food also appears on scoreboard this is also a issue which should be solved 
+This game have some defects like snake moves on scoreboard which should be solved 
+Snake food also appears on scoreboard this is also a issue which should be solved 
